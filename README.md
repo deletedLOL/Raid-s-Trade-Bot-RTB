@@ -17,3 +17,5 @@ Limited Sniper : must have robux, when on this snipes any items without you havi
 
 
 Sneak peak = ![image](https://github.com/deletedLOL/Raid-s-Trade-Bot-RTB/assets/124474026/3be2f985-2bf2-4024-a840-15c57d99ab2d)
+
+![HomePage](path/to/tradetagany.png)
